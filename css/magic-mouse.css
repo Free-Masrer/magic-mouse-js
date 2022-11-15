@@ -31,7 +31,7 @@ body #magicPointer.pointer-blur {
   height: 50px;
   width: 50px;
   background: none;
-  border: 1px solid #fff;
+  border: 1px solid #dark;
   box-shadow: 0px 0px 15px -5px white;
 }
 body #magicPointer.pointer-overlay {
